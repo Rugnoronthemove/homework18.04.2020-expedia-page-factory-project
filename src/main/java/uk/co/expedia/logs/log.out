@@ -1,0 +1,6 @@
+2020-04-20 22:04:983 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-20 22:04:394 INFO  HomePage :33 -  Click on flight hotel and car tab: [[ChromeDriver: chrome on WINDOWS (ff18a12080ae637bb4d4b0626f7491de)] -> id: primary-header-hotel]
+2020-04-20 22:04:698 INFO  HotelsPage :20 -  Verify text: Search Hotels from hotels page [[ChromeDriver: chrome on WINDOWS (ff18a12080ae637bb4d4b0626f7491de)] -> css selector: h1.wizard-tabs]
+2020-04-20 22:04:645 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-20 22:04:234 INFO  HomePage :40 -  Click on account tab: [[ChromeDriver: chrome on WINDOWS (db03297c500126a00a3af965df888693)] -> id: header-account-menu]
+2020-04-20 22:04:365 INFO  AccountPage :35 -  Verify text displayed: Sign in to see exclusive Member Pricing. on account page [[ChromeDriver: chrome on WINDOWS (db03297c500126a00a3af965df888693)] -> id: header-exclusive-deals]
